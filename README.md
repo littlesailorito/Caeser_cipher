@@ -1,4 +1,5 @@
-"# Cybersec"\n 
+"# Cybersec" 
+
 A basic project related to caeser cipher.
 Basic func:
 + Encrypt
